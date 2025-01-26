@@ -9,3 +9,12 @@ theme:
   
 
 
+nav:
+  - Home: index.md  # Maps the "Home" menu item to index.md
+  - Tutorials:
+      - Go Setup: tutorials/go-setup.md
+
+markdown_extensions:
+  - codehilite:  # Enables syntax highlighting for code blocks
+      guess_lang: false  # Avoids auto-detecting language when not specified
+  - admonition  # Enables admonitions for notes, warnings, and tips
