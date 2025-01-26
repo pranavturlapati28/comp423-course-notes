@@ -58,7 +58,7 @@
     2. This should create a file which should initialize Go in this directory.
     3. Create a new file named `main.go`
     4. In this new file we will code our program as follows.
-    5. In the terminal type go `run main.go` and this should result in a "Hello COMP423!" outputted.
+    5. In the terminal type go `go run main.go` and this should result in a "Hello COMP423!" outputted.
 
 <ins>**Step D Code**</ins>
 ```Go
@@ -76,4 +76,6 @@
 
 
 * Primary author: [Pranav Turlapati](https://github.com/pranavturlapati28)
+
+* Reviewer: [Tianyi Zhou](https://github.com/Bugaboolol)
 
